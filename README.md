@@ -42,9 +42,15 @@ Guiding questions:
 1. What is the problem you are trying to solve?
 2. How can your insights drive business decisions?
 
-Key tasks: Identify the business task and consider key stakeholders
+Key tasks: 
+1. Identify the business task
+2. Consider key stakeholders
    
 Deliverable: A clear statement of the business task
 
 #### 2. Prepare 
+
+I have used Cyclistic’s historical trip data to analyze and identify trends.
+https://divvy-tripdata.s3.amazonaws.com/index.html
+
 
