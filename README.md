@@ -42,7 +42,7 @@ Guiding questions:
 What is the problem you are trying to solve?
 How can your insights drive business decisions?
 
-Key tasks: 1. Identify the business task 2. Consider key stakeholders
+Key tasks: Identify the business task and consider key stakeholders
    
 Deliverable: A clear statement of the business task
 
