@@ -1,4 +1,4 @@
-# Google-Data-Analytics-Cyclistic-Capstone
+# Google Data Analytics Cyclistic Capstone
 ## Case Study: How Does a Bike-Share Navigate Speedy Success?
 ### Introduction: 
 Welcome to the Cyclistic bike-share analysis case study! Throughout this case study, I've tackled various real-world tasks typical of a junior data analyst. I was employed at Cyclistic, a fictional company, and had the opportunity to interact with diverse colleagues and team members. To address the essential business queries, I followed the data analysis process steps, including asking questions, preparing data, processing, analyzing, sharing findings, and taking action.
