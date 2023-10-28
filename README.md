@@ -53,4 +53,21 @@ Deliverable: A clear statement of the business task
 I have used Cyclistic’s historical trip data to analyze and identify trends.
 https://divvy-tripdata.s3.amazonaws.com/index.html
 
+Guiding questions:
+1. Where is your data located?
+2. How is the data organized?
+3. Are there issues with bias or credibility in this data?
+4. How are you addressing licensing, privacy, security, and accessibility?
+5. How did you verify the data’s integrity?
+6. How does it help you answer your question?
+7. Are there any problems with the data?
+
+Key tasks:
+1. Download data and store it appropriately.
+2. Identify how it’s organized.
+3. Sort and filter the data.
+4. Determine the credibility of the data.
+
+Deliverable: A description of all data sources used
+
 
