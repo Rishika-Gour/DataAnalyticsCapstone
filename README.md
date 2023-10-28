@@ -87,6 +87,54 @@ Key tasks:
 
 Deliverable: Documentation of any cleaning or manipulation of data
 
+### 4. Analyze
 
+Guiding questions:
+1. How should you organize your data to perform analysis on it?
+2. Has your data been properly formatted?
+3. What surprises did you discover in the data?
+4. What trends or relationships did you find in the data?
+5. How will these insights help answer your business questions?
+
+Key tasks:
+1. Aggregate your data so it’s useful and accessible.
+2. Organize and format your data.
+3. Perform calculations.
+4. Identify trends and relationships.
+
+Deliverable: A summary of your analysis
+
+### 5. Share
+
+Guiding questions:
+1. Were you able to answer the question of how annual members and casual riders use Cyclistic bikes differently?
+2. What story does your data tell?
+3. How do your findings relate to your original question?
+4. Who is your audience? What is the best way to communicate with them?
+5. Can data visualization help you share your findings?
+6. Is your presentation accessible to your audience?
+
+Key tasks:
+1. Determine the best way to share your findings.
+2. Create effective data visualizations.
+3. Present your findings.
+4. Ensure your work is accessible.
+   
+Deliverable: Supporting visualizations and key findings
+
+### 6. Act
+
+Guiding questions:
+1. What is your final conclusion based on your analysis?
+2. How could your team and business apply your insights?
+3. What next steps would you or your stakeholders take based on your findings?
+4. Is there additional data you could use to expand on your findings?
+
+Key tasks:
+1. Create your portfolio.
+2. Add your case study.
+3. Practice presenting your case study to a friend or family member.
+
+Deliverable: Your top three recommendations based on your analysis
 
 
