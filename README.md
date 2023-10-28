@@ -36,7 +36,7 @@ Moreno has assigned me the first question to answer: How do annual members and c
 6.	Your top three recommendations based on your analysis
 
 ### Case Study Roadmap
-#### 1. Ask
+### 1. Ask
    
 Guiding questions:
 1. What is the problem you are trying to solve?
@@ -48,7 +48,7 @@ Key tasks:
    
 Deliverable: A clear statement of the business task
 
-#### 2. Prepare 
+### 2. Prepare 
 
 I have used Cyclistic’s historical trip data to analyze and identify trends.
 https://divvy-tripdata.s3.amazonaws.com/index.html
@@ -69,5 +69,24 @@ Key tasks:
 4. Determine the credibility of the data.
 
 Deliverable: A description of all data sources used
+
+### 3. Process
+
+Guiding questions:
+● What tools are you choosing and why?
+● Have you ensured your data’s integrity?
+● What steps have you taken to ensure that your data is clean?
+● How can you verify that your data is clean and ready to analyze?
+● Have you documented your cleaning process so you can review and share those results?
+
+Key tasks:
+1. Check the data for errors.
+2. Choose your tools.
+3. Transform the data so you can work with it effectively.
+4. Document the cleaning process.
+
+Deliverable: Documentation of any cleaning or manipulation of data
+
+
 
 
