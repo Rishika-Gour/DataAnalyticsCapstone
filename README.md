@@ -31,9 +31,9 @@ Moreno has assigned me the first question to answer: How do annual members and c
 1.	A clear statement of the business task 
 2.	A description of all data sources used 
 3.	Documentation of any cleaning or manipulation of data 
-4.	A summary of your analysis 
+4.	A summary of the analysis 
 5.	Supporting visualizations and key findings 
-6.	Your top three recommendations based on your analysis
+6.	Top three recommendations based on the analysis
 
 ### Case Study Roadmap
 ### 1. Ask
@@ -102,7 +102,7 @@ Key tasks:
 3. Perform calculations.
 4. Identify trends and relationships.
 
-Deliverable: A summary of your analysis
+Deliverable: A summary of the analysis
 
 ### 5. Share
 
@@ -135,6 +135,6 @@ Key tasks:
 2. Add your case study.
 3. Practice presenting your case study to a friend or family member.
 
-Deliverable: Your top three recommendations based on your analysis
+Deliverable: Top three recommendations based on the analysis
 
 
