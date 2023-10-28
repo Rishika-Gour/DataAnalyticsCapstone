@@ -37,9 +37,10 @@ Moreno has assigned me the first question to answer: How do annual members and c
 
 ### Case Study Roadmap
 1. Ask
+   
 Guiding questions:
-● What is the problem you are trying to solve?
-● How can your insights drive business decisions?
+What is the problem you are trying to solve?
+How can your insights drive business decisions?
 
 Key tasks:
 1. Identify the business task
