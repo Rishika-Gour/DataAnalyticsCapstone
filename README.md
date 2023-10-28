@@ -73,11 +73,11 @@ Deliverable: A description of all data sources used
 ### 3. Process
 
 Guiding questions:
-● What tools are you choosing and why?
-● Have you ensured your data’s integrity?
-● What steps have you taken to ensure that your data is clean?
-● How can you verify that your data is clean and ready to analyze?
-● Have you documented your cleaning process so you can review and share those results?
+1. What tools are you choosing and why?
+2. Have you ensured your data’s integrity?
+3. What steps have you taken to ensure that your data is clean?
+4. How can you verify that your data is clean and ready to analyze?
+5. Have you documented your cleaning process so you can review and share those results?
 
 Key tasks:
 1. Check the data for errors.
